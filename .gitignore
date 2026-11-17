@@ -1,0 +1,16 @@
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+
+faiss_index/
+*.pdf
+
+.DS_Store
+.vscode/
+.idea/
+.pytest_cache/
